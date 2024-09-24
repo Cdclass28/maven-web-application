@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.94.118.82:8081/repository/paypal-Snapshot/
+	      <url>http://35.94.118.82:8081/repository/paypal-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
